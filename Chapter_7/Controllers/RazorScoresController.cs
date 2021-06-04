@@ -17,7 +17,10 @@ namespace Chapter_7.Controllers
             new Student {Id=34, Name="John", Chinese=63,English=85 ,Math=55},
             new Student {Id=45, Name="David", Chinese=59,English=77 ,Math=82},
         };
-
+        public IActionResult RazorScoresPure()
+        {
+            return View(students);
+        }
         public IActionResult ScoresRazor()
         {
             students.ForEach(s => s.Total = s.Chinese + s.Math + s.English);

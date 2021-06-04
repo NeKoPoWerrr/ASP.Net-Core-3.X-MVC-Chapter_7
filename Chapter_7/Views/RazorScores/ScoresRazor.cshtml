@@ -71,13 +71,13 @@
                 {
                     <td class="poor">@Html.DisplayFor(x => m.Chinese)</td>
                 }
-                else if (m.Chinese > 90)
+                else if (m.Chinese >= 95)
                 {
                     <td class="excellent">@Html.DisplayFor(x => m.Chinese)</td>
                 }
                 else
                 {
-                    <td class="excellent">@Html.DisplayFor(x => m.Chinese)</td>
+                    <td >@Html.DisplayFor(x => m.Chinese)</td>
                 }
             }
             @{
@@ -85,13 +85,13 @@
                 {
                     <td class="poor">@Html.DisplayFor(x => m.English)</td>
                 }
-                else if (m.English > 90)
+                else if (m.English >= 95)
                 {
                     <td class="excellent">@Html.DisplayFor(x => m.English)</td>
                 }
                 else
                 {
-                    <td class="excellent">@Html.DisplayFor(x => m.English)</td>
+                    <td >@Html.DisplayFor(x => m.English)</td>
                 }
             }
             @{
@@ -99,13 +99,13 @@
                 {
                     <td class="poor">@Html.DisplayFor(x => m.Math)</td>
                 }
-                else if (m.English > 90)
+                else if (m.Math >= 95)
                 {
                     <td class="excellent">@Html.DisplayFor(x => m.Math)</td>
                 }
                 else
                 {
-                    <td class="excellent">@Html.DisplayFor(x => m.Math)</td>
+                    <td>@Html.DisplayFor(x => m.Math)</td>
                 }
             }
             @{

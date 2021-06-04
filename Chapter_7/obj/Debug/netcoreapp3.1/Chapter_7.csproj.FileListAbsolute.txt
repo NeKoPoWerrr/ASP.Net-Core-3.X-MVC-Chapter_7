@@ -111,3 +111,4 @@ E:\program\C sharp\Chapter_7\Chapter_7\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft
 E:\program\C sharp\Chapter_7\Chapter_7\obj\Debug\netcoreapp3.1\Razor\Views\RazorScores\Scores.cshtml.g.cs
 E:\program\C sharp\Chapter_7\Chapter_7\obj\Debug\netcoreapp3.1\Razor\Views\RazorScores\ScoresRazor.cshtml.g.cs
 E:\program\C sharp\Chapter_7\Chapter_7\obj\Debug\netcoreapp3.1\Razor\Views\RazorScores\Index.cshtml.g.cs
+E:\program\C sharp\Chapter_7\Chapter_7\obj\Debug\netcoreapp3.1\Razor\Views\RazorScores\RazorScoresPure.cshtml.g.cs

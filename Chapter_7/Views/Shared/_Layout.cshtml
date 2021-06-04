@@ -25,8 +25,14 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="RazorScores" asp-action="ScoresRazor">RazorScore</a>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">RazorScores控制器</a>
+                            <div class="dropdown-menu">
+                                <a class="dropdown-item" href="~/RazorScores/Scores">Scores</a>
+                                <a class="dropdown-item" href="~/RazorScores/ScoresRazor">ScoresRazor</a>
+                                <a class="dropdown-item" href="~/RazorScores/RazorScoresPure">ScoresRazorPure</a>
+                                <a class="dropdown-item" href="~/RazorScores/ScoreViewComponents">ScoreViewComponents</a>
+                            </div>
                         </li>
                     </ul>
                 </div>
