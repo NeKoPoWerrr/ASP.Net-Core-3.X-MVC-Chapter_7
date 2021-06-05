@@ -112,3 +112,8 @@ E:\program\C sharp\Chapter_7\Chapter_7\obj\Debug\netcoreapp3.1\Razor\Views\Razor
 E:\program\C sharp\Chapter_7\Chapter_7\obj\Debug\netcoreapp3.1\Razor\Views\RazorScores\ScoresRazor.cshtml.g.cs
 E:\program\C sharp\Chapter_7\Chapter_7\obj\Debug\netcoreapp3.1\Razor\Views\RazorScores\Index.cshtml.g.cs
 E:\program\C sharp\Chapter_7\Chapter_7\obj\Debug\netcoreapp3.1\Razor\Views\RazorScores\RazorScoresPure.cshtml.g.cs
+E:\program\C sharp\Chapter_7\Chapter_7\obj\Debug\netcoreapp3.1\Razor\Views\Razor\RazorStatement.cshtml.g.cs
+E:\program\C sharp\Chapter_7\Chapter_7\obj\Debug\netcoreapp3.1\Razor\Views\Razor\RazorFunctions.cshtml.g.cs
+E:\program\C sharp\Chapter_7\Chapter_7\obj\Debug\netcoreapp3.1\Razor\Views\Razor\InheritsRazorPage.cshtml.g.cs
+E:\program\C sharp\Chapter_7\Chapter_7\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_SimpleCardPartial.cshtml.g.cs
+E:\program\C sharp\Chapter_7\Chapter_7\obj\Debug\netcoreapp3.1\Razor\Views\PartialView\SimpleCard.cshtml.g.cs

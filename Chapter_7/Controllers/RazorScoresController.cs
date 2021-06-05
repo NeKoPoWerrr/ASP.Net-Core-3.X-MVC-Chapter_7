@@ -23,12 +23,21 @@ namespace Chapter_7.Controllers
         }
         public IActionResult ScoresRazor()
         {
+            ViewData["Topid"] = GetTopStudentID();
+            return View(students);
+        }
+
+        public int GetTopStudentID() 
+        {
             students.ForEach(s => s.Total = s.Chinese + s.Math + s.English);
             var topid = students.OrderByDescending(s => s.Total)
                 .Select(s => s.Id)
                 .FirstOrDefault();
-            ViewData["Topid"] = topid;
-            return View(students);
+            return topid;
+        }
+        public IActionResult RazorStatement()
+        {
+            return View();
         }
         public IActionResult Scores()
         {
