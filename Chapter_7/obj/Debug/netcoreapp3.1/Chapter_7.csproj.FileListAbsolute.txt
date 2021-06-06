@@ -117,3 +117,6 @@ E:\program\C sharp\Chapter_7\Chapter_7\obj\Debug\netcoreapp3.1\Razor\Views\Razor
 E:\program\C sharp\Chapter_7\Chapter_7\obj\Debug\netcoreapp3.1\Razor\Views\Razor\InheritsRazorPage.cshtml.g.cs
 E:\program\C sharp\Chapter_7\Chapter_7\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_SimpleCardPartial.cshtml.g.cs
 E:\program\C sharp\Chapter_7\Chapter_7\obj\Debug\netcoreapp3.1\Razor\Views\PartialView\SimpleCard.cshtml.g.cs
+E:\program\C sharp\Chapter_7\Chapter_7\obj\Debug\netcoreapp3.1\Razor\Views\PartialView\CardList.cshtml.g.cs
+E:\program\C sharp\Chapter_7\Chapter_7\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CardPartial.cshtml.g.cs
+E:\program\C sharp\Chapter_7\Chapter_7\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_PortFunctionPartial.cshtml.g.cs
